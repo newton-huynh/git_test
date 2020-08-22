@@ -1,0 +1,1 @@
+This is Newton's first git project!
